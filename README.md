@@ -1,4 +1,3 @@
-# benny0616
 진도 수업 
 오전 3시간 / 복습 1시간
 오후 3시간 / 복습 1시간
@@ -81,4 +80,45 @@ git commit -m “UPDATE : README.md”
  (리드미(README, readme, read me) 파일은 디렉터리나 압축 파일에 포함된 기타 파일에 대한 정보를 포함하고 있으며, 일반적으로 컴퓨터 소프트웨어와 함께 배포된다.)
 git push -u origin main
 
+lectures
+
+
+집에서 
+최초 
+Git clone https://github.com/BennyPark/love0616.git(내 저장 공간 )
+
+
+2회
+git pull
+
+
+
+R
+https://cran.r-project.org/bin/windows/base/
+
+R studio
+https://www.rstudio.com/products/rstudio/download/
+
+vscode 다운
+https://code.visualstudio.com/docs/?dv=win
+
+
+R 
+- RStudio : 
+
+Python : 
+- IDE(통합 개발 환경)
+-VSCode  가벼움 / 확장성이 좋음
+: HTML, CSS, JAVA , JAVAScript, R, etc
+:WSL2 플랫폼 구축
+
+Pycharm  파이썬 개발환경에 특화
+: 가상환경 / 리눅스 쓰기 좀 번거로움
+
+- 아나콘다
+: 데이터 과학 관련 라이브러리 
+: 주피터 노트북
+
+ 
+수정 후 업데이트 방법
 
